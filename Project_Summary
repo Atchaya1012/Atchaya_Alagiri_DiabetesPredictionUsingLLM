@@ -1,6 +1,6 @@
-This project predicts diabetes and explains the prediction based on medical information. 
-A Random Forest model is trained on a diabetes dataset to classify patients as diabetic or non-diabetic. 
-After the model makes a prediction, a pre-trained language model (GPT-2) generates a natural language explanation describing how specific health factors (like glucose level and age) 
+=> This project predicts diabetes and explains the prediction based on medical information. 
+=> A Random Forest model is trained on a diabetes dataset to classify patients as diabetic or non-diabetic. 
+=> After the model makes a prediction, a pre-trained language model (GPT-2) generates a natural language explanation describing how specific health factors (like glucose level and age) 
 influence the risk of diabetes. 
-The project includes visualizations, such as feature importance and a confusion matrix, to show which features are most influential and how well the model performs. 
-This setup provides both prediction and interpretability in one place.
+=> The project includes visualizations, such as feature importance and a confusion matrix, to show which features are most influential and how well the model performs. 
+=> This setup provides both prediction and interpretability in one place.
